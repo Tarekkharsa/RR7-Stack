@@ -18,3 +18,4 @@
 - honypots and cerf token for forms
 - cart 
 - payment Integrations 
+- notifications & alerts
